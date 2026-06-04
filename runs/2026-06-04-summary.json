@@ -1,29 +1,16 @@
 {
   "date": "2026-06-04",
-  "candidate_count": 4,
-  "added_count": 0,
-  "high_added_count": 0,
+  "candidate_count": 3,
+  "added_count": 3,
+  "high_added_count": 3,
   "medium_added_count": 0,
-  "rejected_count": 4,
-  "added_titles": [],
-  "rejected": [
-    {
-      "title": "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
-      "reason": "duplicate pmid in data"
-    },
-    {
-      "title": "Constant-routine protocol reveals an endogenous circadian rhythm in diet-induced thermogenesis with a peak in the biological morning.",
-      "reason": "duplicate doi in data"
-    },
-    {
-      "title": "Impact of food texture and degree of food processing on post-meal satiety and later snack intake.",
-      "reason": "duplicate doi in data"
-    },
-    {
-      "title": "Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects.",
-      "reason": "duplicate doi in data"
-    }
+  "rejected_count": 0,
+  "added_titles": [
+    "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake.",
+    "Ultra-Processing or Oral Processing? A Role for Energy Density and Eating Rate in Moderating Energy Intake from Processed Foods.",
+    "Texture-based differences in eating rate influence energy intake for minimally processed and ultra-processed meals."
   ],
+  "rejected": [],
   "backup_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\backups\\2026-06-04-new_entries.json",
   "data_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\data\\data.json",
   "docs_data_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\docs\\data.json",

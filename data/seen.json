@@ -4,21 +4,30 @@
     "10.1016/j.physbeh.2009.03.011",
     "10.1016/j.appet.2026.108604",
     "10.1016/j.ajcnut.2026.101363",
-    "10.1016/j.tjnut.2026.101625"
+    "10.1016/j.tjnut.2026.101625",
+    "10.1016/j.cmet.2019.05.008",
+    "10.1093/cdn/nzaa019",
+    "10.1093/ajcn/nqac068"
   ],
   "pmid": [
     "42190872",
     "41314613",
     "42176807",
     "42177949",
-    "42235826"
+    "42235826",
+    "31105044",
+    "32110771",
+    "35285882"
   ],
   "url": [
     "https://pubmed.ncbi.nlm.nih.gov/42190872",
     "https://pubmed.ncbi.nlm.nih.gov/41314613",
     "https://pubmed.ncbi.nlm.nih.gov/42176807",
     "https://pubmed.ncbi.nlm.nih.gov/42177949",
-    "https://pubmed.ncbi.nlm.nih.gov/42235826"
+    "https://pubmed.ncbi.nlm.nih.gov/42235826",
+    "https://pubmed.ncbi.nlm.nih.gov/31105044",
+    "https://pubmed.ncbi.nlm.nih.gov/32110771",
+    "https://pubmed.ncbi.nlm.nih.gov/35285882"
   ],
   "titles": [
     "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
@@ -26,7 +35,10 @@
     "Effects of Bariatric Surgery and Obesity Medicines on Human Eating Behavior.",
     "Impact of food texture and degree of food processing on post-meal satiety and later snack intake.",
     "Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects.",
-    "Marked changes in one-carbon metabolism on a low-carbohydrate high-fat diet: a randomized controlled trial (CARBFUNC)."
+    "Marked changes in one-carbon metabolism on a low-carbohydrate high-fat diet: a randomized controlled trial (CARBFUNC).",
+    "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake.",
+    "Ultra-Processing or Oral Processing? A Role for Energy Density and Eating Rate in Moderating Energy Intake from Processed Foods.",
+    "Texture-based differences in eating rate influence energy intake for minimally processed and ultra-processed meals."
   ],
-  "updated_at": "2026-06-04T18:03:40+00:00"
+  "updated_at": "2026-06-04T19:01:19+00:00"
 }

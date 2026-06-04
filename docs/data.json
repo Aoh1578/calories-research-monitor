@@ -1,7 +1,7 @@
 {
   "project": "Calories Research Monitor",
   "last_updated": "2026-06-04",
-  "generated_at": "2026-06-04T18:03:40+00:00",
+  "generated_at": "2026-06-04T19:01:19+00:00",
   "site_url": "https://aoh1578.github.io/calories-research-monitor/",
   "nodes": [
     {
@@ -112,6 +112,177 @@
     }
   ],
   "entries": [
+    {
+      "id": "20260604-historical-ultra-processed-diets-cause-excess-calorie-intake-and-weight-gain-an-i",
+      "date_found": "2026-06-04",
+      "date_published": "2019-07-02",
+      "title": "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake.",
+      "source_type": "scholar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31105044",
+      "doi": "10.1016/j.cmet.2019.05.008",
+      "pmid": "31105044",
+      "pmcid": "",
+      "journal": "Cell metabolism",
+      "authors": [
+        "Kevin D Hall",
+        "Alexis Ayuketah",
+        "Robert Brychta",
+        "Hongyi Cai",
+        "Thomas Cassimatis",
+        "Kong Y Chen",
+        "Stephanie T Chung",
+        "Elise Costa"
+      ],
+      "year": "2019",
+      "citation_apa": "",
+      "citation_vancouver": "",
+      "study_type": "RCT_HUMAN_FREE_LIVING",
+      "evidence_level": "RCT_HUMAN_FREE_LIVING",
+      "population": "",
+      "sample_size": "",
+      "duration": "",
+      "intervention_or_exposure": "",
+      "primary_outcome": "",
+      "cascade_nodes": [
+        "ULTRA_PROCESSED"
+      ],
+      "claim_tags": [
+        "CLAIM_UPF_PASSIVE_OVEREATING",
+        "CLAIM_SAME_CALORIES_DIFFERENT_EVENT"
+      ],
+      "claim_relation": "strengthens",
+      "relevance": "HIGH",
+      "summary": "We investigated whether ultra-processed foods affect energy intake in 20 weight-stable adults, aged (mean ± SE) 31.2 ± 1.6 years and BMI = 27 ± 1.5 kg/m",
+      "key_findings": [],
+      "mechanism": "",
+      "limitations": [
+        "Historical backfill from PubMed metadata/abstract; verify full text before manuscript use.",
+        "Automatically tagged; mechanism and chapter use need human review."
+      ],
+      "funding": "",
+      "conflicts": "",
+      "quote_or_key_sentence": "",
+      "book_use": "mechanism",
+      "chapter_candidates": [],
+      "overclaim_risk": "MEDIUM",
+      "medical_caution": "Do not present as medical advice; verify study design, population, and outcomes before use.",
+      "generalizability": "Unknown until human review of full paper.",
+      "status": "needs_human_review",
+      "added_by_run": "2026-06-04",
+      "discovery_lane": "historical_backfill"
+    },
+    {
+      "id": "20260604-historical-ultra-processing-or-oral-processing-a-role-for-energy-density-and-eati",
+      "date_found": "2026-06-04",
+      "date_published": "2020-03-10",
+      "title": "Ultra-Processing or Oral Processing? A Role for Energy Density and Eating Rate in Moderating Energy Intake from Processed Foods.",
+      "source_type": "scholar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32110771",
+      "doi": "10.1093/cdn/nzaa019",
+      "pmid": "32110771",
+      "pmcid": "",
+      "journal": "Current developments in nutrition",
+      "authors": [
+        "Ciarán G Forde",
+        "Monica Mars",
+        "Kees de Graaf"
+      ],
+      "year": "2020",
+      "citation_apa": "",
+      "citation_vancouver": "",
+      "study_type": "RCT_HUMAN_FREE_LIVING",
+      "evidence_level": "RCT_HUMAN_FREE_LIVING",
+      "population": "",
+      "sample_size": "",
+      "duration": "",
+      "intervention_or_exposure": "",
+      "primary_outcome": "",
+      "cascade_nodes": [
+        "ULTRA_PROCESSED"
+      ],
+      "claim_tags": [
+        "CLAIM_UPF_PASSIVE_OVEREATING",
+        "CLAIM_SAME_CALORIES_DIFFERENT_EVENT"
+      ],
+      "claim_relation": "strengthens",
+      "relevance": "HIGH",
+      "summary": "Recent observational data and a controlled in-patient crossover feeding trial show that consumption of \"ultra-processed foods\" (UPFs), as defined by the NOVA classification system, is associated with higher energy intake, adiposity, and at a population level, higher prevalence of obesity. A drawback of the NOVA classification is the lack of evidence supporting a causal mechanism for why UPFs lead to overconsumption of energy. In a recent study by Hall the energy intake rate in the UPF condition (48 kcal/min) was >50% higher than in the unprocessed condition (31 kcal/min). Extensive empirical evidence has shown the impact that higher energy density has on increasing ad libitum energy intake a…",
+      "key_findings": [],
+      "mechanism": "",
+      "limitations": [
+        "Historical backfill from PubMed metadata/abstract; verify full text before manuscript use.",
+        "Automatically tagged; mechanism and chapter use need human review."
+      ],
+      "funding": "",
+      "conflicts": "",
+      "quote_or_key_sentence": "",
+      "book_use": "mechanism",
+      "chapter_candidates": [],
+      "overclaim_risk": "MEDIUM",
+      "medical_caution": "Do not present as medical advice; verify study design, population, and outcomes before use.",
+      "generalizability": "Unknown until human review of full paper.",
+      "status": "needs_human_review",
+      "added_by_run": "2026-06-04",
+      "discovery_lane": "historical_backfill"
+    },
+    {
+      "id": "20260604-historical-texture-based-differences-in-eating-rate-influence-energy-intake-for-m",
+      "date_found": "2026-06-04",
+      "date_published": "2022-07-06",
+      "title": "Texture-based differences in eating rate influence energy intake for minimally processed and ultra-processed meals.",
+      "source_type": "scholar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35285882",
+      "doi": "10.1093/ajcn/nqac068",
+      "pmid": "35285882",
+      "pmcid": "",
+      "journal": "The American journal of clinical nutrition",
+      "authors": [
+        "Pey Sze Teo",
+        "Amanda JiaYing Lim",
+        "Ai Ting Goh",
+        "Janani R",
+        "Jie Ying Michelle Choy",
+        "Keri McCrickerd",
+        "Ciarán G Forde"
+      ],
+      "year": "2022",
+      "citation_apa": "",
+      "citation_vancouver": "",
+      "study_type": "RCT_HUMAN_FREE_LIVING",
+      "evidence_level": "RCT_HUMAN_FREE_LIVING",
+      "population": "",
+      "sample_size": "",
+      "duration": "",
+      "intervention_or_exposure": "",
+      "primary_outcome": "",
+      "cascade_nodes": [
+        "ULTRA_PROCESSED"
+      ],
+      "claim_tags": [
+        "CLAIM_UPF_PASSIVE_OVEREATING",
+        "CLAIM_SAME_CALORIES_DIFFERENT_EVENT"
+      ],
+      "claim_relation": "strengthens",
+      "relevance": "HIGH",
+      "summary": "Consumption of ultra-processed foods has been linked with higher energy intakes. Food texture is known to influence eating rate (ER) and energy intake to satiation, yet it remains unclear whether food texture influences energy intakes from minimally processed and ultra-processed meals. We examined the independent and combined effects of food texture and degree of processing on ad libitum food intake. We also investigated whether differences in energy intake during lunch influenced postmeal feelings of satiety and later food intake. In this crossover study, 50 healthy-weight participants [n = 50 (24 men); mean ± SD age: 24.4 ± 3.1 y; BMI: 21.3 ± 1.9 kg/m2] consumed 4 ad libitum lunch meals co…",
+      "key_findings": [],
+      "mechanism": "",
+      "limitations": [
+        "Historical backfill from PubMed metadata/abstract; verify full text before manuscript use.",
+        "Automatically tagged; mechanism and chapter use need human review."
+      ],
+      "funding": "",
+      "conflicts": "",
+      "quote_or_key_sentence": "",
+      "book_use": "mechanism",
+      "chapter_candidates": [],
+      "overclaim_risk": "MEDIUM",
+      "medical_caution": "Do not present as medical advice; verify study design, population, and outcomes before use.",
+      "generalizability": "Unknown until human review of full paper.",
+      "status": "needs_human_review",
+      "added_by_run": "2026-06-04",
+      "discovery_lane": "historical_backfill"
+    },
     {
       "id": "20260604-marked-changes-in-one-carbon-metabolism-on-a-low-carbohydrate-high-fat",
       "date_found": "2026-06-04",

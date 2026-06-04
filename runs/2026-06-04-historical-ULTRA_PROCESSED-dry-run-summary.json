@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-04",
+  "node": "ULTRA_PROCESSED",
+  "date_floor": "1990-01-01",
+  "candidate_count": 3,
+  "candidate_titles": [
+    "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake.",
+    "Ultra-Processing or Oral Processing? A Role for Energy Density and Eating Rate in Moderating Energy Intake from Processed Foods.",
+    "Texture-based differences in eating rate influence energy intake for minimally processed and ultra-processed meals."
+  ],
+  "incoming": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\incoming\\2026-06-04-historical-ULTRA_PROCESSED-candidates.json",
+  "dry_run": true,
+  "query_log": [
+    "query='\"ultra-processed foods\" \"ad libitum\" \"energy intake\"' ids=['31105044', '39267249', '40082711', '34245802', '35285882', '40926558', '32110771', '37935307']",
+    "query='\"ultra-processed\" \"metabolic ward\" \"Hall\"' ids=[]",
+    "query='\"NOVA\" \"ultra-processed foods\" \"review\"' ids=['38418082', '38688162', '32630022', '36986276', '37087831', '37424296', '35322333', '34444936']"
+  ]
+}
