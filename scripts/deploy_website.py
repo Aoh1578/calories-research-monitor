@@ -76,6 +76,7 @@ def commit_and_push() -> None:
 
 def ensure_pages(owner: str) -> str:
     repo = f"{owner}/{REPO_NAME}"
+    owner_slug = owner.lower()
     # Try to read Pages first. If not enabled, create a docs-folder deployment.
     view = run(["gh", "api", f"repos/{repo}/pages"], check=False)
     if view.returncode != 0:
@@ -109,7 +110,7 @@ def ensure_pages(owner: str) -> str:
             "-H", "Accept: application/vnd.github+json",
             "--input", str(tmp),
         ], check=False)
-    return f"https://{owner}.github.io/{REPO_NAME}/"
+    return f"https://{owner_slug}.github.io/{REPO_NAME}/"
 
 
 def main() -> int:
