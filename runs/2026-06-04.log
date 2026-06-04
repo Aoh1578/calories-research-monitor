@@ -1,15 +1,13 @@
 Calories Research Monitor run 2026-06-04
-Candidates: 8
-Added: 8
-Rejected: 0
-High added: 8
+Candidates: 6
+Added: 5
+Rejected: 1
+High added: 2
 Backup: C:\Users\Home\Documents\Calories\research-monitor\backups\2026-06-04-new_entries.json
 
-ADDED [HIGH] Constant-routine protocol reveals an endogenous circadian rhythm in diet-induced thermogenesis with a peak in the biological morning. | https://pubmed.ncbi.nlm.nih.gov/42190872
-ADDED [HIGH] Enhancing the nutritional value of date palm leaves via solid-state fermentation and its impact with single-cell protein on lambs' performance. | https://pubmed.ncbi.nlm.nih.gov/42223764
+ADDED [HIGH] Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial. | https://pubmed.ncbi.nlm.nih.gov/41314613
 ADDED [HIGH] Attenuation of Adaptive Thermogenesis by a Culinary Dose of Red Pepper During 24-Hour Negative Energy Balance. | https://pubmed.ncbi.nlm.nih.gov/42186269
-ADDED [HIGH] Association of combined ultra-processed food intake (ultra-processed dietary pattern) with cognitive function impairment: a meta-analysis of prospective cohort studies. | https://pubmed.ncbi.nlm.nih.gov/42228145
-ADDED [HIGH] Personalized Type 1 Diabetes Management: Reinforcement Learning-Based Insulin Dosing and Glucose Forecasting. | https://pubmed.ncbi.nlm.nih.gov/42234999
-ADDED [HIGH] Texture-optimized early enteral nutrition enhances gastrointestinal recovery and caloric intake after general surgery: A randomized controlled trial. | https://pubmed.ncbi.nlm.nih.gov/41966356
-ADDED [HIGH] Ultra-processed food consumption and multiple sclerosis incidence: A prospective cohort study. | https://pubmed.ncbi.nlm.nih.gov/42105610
-ADDED [HIGH] A cognitive dissonance-based intervention to reduce ultra-processed food intake: Protocol for a pilot randomized controlled trial. | https://pubmed.ncbi.nlm.nih.gov/42031230
+ADDED [MEDIUM] Effects of Bariatric Surgery and Obesity Medicines on Human Eating Behavior. | https://pubmed.ncbi.nlm.nih.gov/42139151
+ADDED [MEDIUM] Impact of food texture and degree of food processing on post-meal satiety and later snack intake. | https://pubmed.ncbi.nlm.nih.gov/42176807
+ADDED [MEDIUM] Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects. | https://pubmed.ncbi.nlm.nih.gov/42177949
+REJECTED Constant-routine protocol reveals an endogenous circadian rhythm in diet-induced thermogenesis with a peak in the biological morning. | duplicate doi in data

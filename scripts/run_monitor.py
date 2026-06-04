@@ -66,13 +66,28 @@ CLAIMS = {
 }
 
 PUBMED_QUERIES = [
-    '("ultra-processed food" OR "ultra processed food") AND (energy intake OR appetite OR randomized)',
-    '("food matrix" OR "metabolizable energy" OR Atwater) AND (calorie OR energy)',
-    '("eating rate" OR texture OR "oral processing") AND (satiety OR "energy intake")',
-    '("protein leverage" OR "thermic effect of food" OR "diet-induced thermogenesis")',
-    '("personalized nutrition" OR "glycemic response" OR postprandial) AND variability',
-    '("constrained energy expenditure" OR "adaptive thermogenesis" OR "exercise compensation")',
-    '(isocaloric OR "energy balance") AND (obesity OR "weight loss") AND (trial OR review)',
+    # Keep queries narrow. Broad terms like protein/glucose/calorie flood PubMed with disease-management or animal-feed papers.
+    '("ultra-processed food" OR "ultra processed food") AND ("energy intake" OR appetite OR "ad libitum" OR randomized)',
+    '("food matrix" OR "metabolizable energy" OR Atwater) AND (calorie OR energy OR nutrition)',
+    '("eating rate" OR "oral processing" OR "food texture") AND (satiety OR "energy intake")',
+    '("diet-induced thermogenesis" OR "thermic effect of food") AND (meal OR diet OR calorie)',
+    '("personalized nutrition" OR "glycemic response") AND (meal OR diet OR postprandial) AND variability',
+    '("constrained energy expenditure" OR "adaptive thermogenesis" OR "exercise compensation") AND (diet OR obesity OR "energy balance")',
+    '(isocaloric OR "energy balance") AND ("weight loss" OR obesity) AND (diet OR trial OR review)',
+]
+
+DIRECT_FOCUS_TERMS = [
+    "ultra-processed", "ultra processed", "food matrix", "metabolizable energy", "atwater",
+    "eating rate", "oral processing", "food texture", "satiety", "diet-induced thermogenesis",
+    "thermic effect", "constrained energy expenditure", "adaptive thermogenesis", "exercise compensation",
+    "personalized nutrition", "glycemic response", "isocaloric", "energy balance", "calorie label",
+]
+
+EXCLUDE_TERMS = [
+    # Usually outside this book's mechanism scope unless explicitly tied to calorie metabolism in ordinary diets.
+    "date palm leaves", "lamb", "ruminant", "cattle", "broiler", "piglet", "aquaculture", "single-cell protein",
+    "insulin dosing", "type 1 diabetes management", "multiple sclerosis incidence", "cognitive impairment",
+    "postoperative", "enteral nutrition", "general surgery", "protocol for", "pilot randomized controlled trial",
 ]
 
 CROSSREF_QUERIES = [
@@ -117,6 +132,10 @@ def slugify(title: str) -> str:
 
 def classify(text: str) -> tuple[list[str], list[str], str, str, str]:
     low = text.lower()
+    if any(term in low for term in EXCLUDE_TERMS):
+        return [], [], "", "", ""
+    if not any(term in low for term in DIRECT_FOCUS_TERMS):
+        return [], [], "", "", ""
     nodes = [node for node, keys in NODES.items() if any(k in low for k in keys)]
     claims = [claim for claim, keys in CLAIMS.items() if any(k in low for k in keys)]
     if not nodes:
@@ -171,6 +190,8 @@ def parse_pubmed_article(article: ET.Element) -> dict[str, Any] | None:
     month = month_map.get(month[:3], month.zfill(2) if month.isdigit() else "01")
     day = day.zfill(2) if day.isdigit() else "01"
     date_published = f"{year}-{month}-{day}" if year else ""
+    if date_published and date_published > TODAY:
+        return None
     authors = []
     for a in article.findall(".//Author")[:6]:
         last = a.findtext("LastName") or ""
