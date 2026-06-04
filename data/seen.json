@@ -3,26 +3,30 @@
     "10.1016/j.metabol.2026.156655",
     "10.1016/j.physbeh.2009.03.011",
     "10.1016/j.appet.2026.108604",
-    "10.1016/j.ajcnut.2026.101363"
+    "10.1016/j.ajcnut.2026.101363",
+    "10.1016/j.tjnut.2026.101625"
   ],
   "pmid": [
     "42190872",
     "41314613",
     "42176807",
-    "42177949"
+    "42177949",
+    "42235826"
   ],
   "url": [
     "https://pubmed.ncbi.nlm.nih.gov/42190872",
     "https://pubmed.ncbi.nlm.nih.gov/41314613",
     "https://pubmed.ncbi.nlm.nih.gov/42176807",
-    "https://pubmed.ncbi.nlm.nih.gov/42177949"
+    "https://pubmed.ncbi.nlm.nih.gov/42177949",
+    "https://pubmed.ncbi.nlm.nih.gov/42235826"
   ],
   "titles": [
     "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
     "Attenuation of Adaptive Thermogenesis by a Culinary Dose of Red Pepper During 24-Hour Negative Energy Balance.",
     "Effects of Bariatric Surgery and Obesity Medicines on Human Eating Behavior.",
     "Impact of food texture and degree of food processing on post-meal satiety and later snack intake.",
-    "Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects."
+    "Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects.",
+    "Marked changes in one-carbon metabolism on a low-carbohydrate high-fat diet: a randomized controlled trial (CARBFUNC)."
   ],
-  "updated_at": "2026-06-04T17:26:04+00:00"
+  "updated_at": "2026-06-04T17:38:21+00:00"
 }

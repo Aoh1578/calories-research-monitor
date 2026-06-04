@@ -1,11 +1,12 @@
 Calories Research Monitor run 2026-06-04
-Candidates: 4
-Added: 0
+Candidates: 5
+Added: 1
 Rejected: 4
-High added: 0
+High added: 1
 Backup: C:\Users\Home\Documents\Calories\research-monitor\backups\2026-06-04-new_entries.json
 
-REJECTED Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial. | duplicate doi in data
+ADDED [HIGH] Marked changes in one-carbon metabolism on a low-carbohydrate high-fat diet: a randomized controlled trial (CARBFUNC). | https://pubmed.ncbi.nlm.nih.gov/42235826
+REJECTED Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial. | duplicate pmid in data
 REJECTED Constant-routine protocol reveals an endogenous circadian rhythm in diet-induced thermogenesis with a peak in the biological morning. | duplicate doi in data
 REJECTED Impact of food texture and degree of food processing on post-meal satiety and later snack intake. | duplicate doi in data
 REJECTED Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects. | duplicate doi in data

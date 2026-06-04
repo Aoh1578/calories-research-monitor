@@ -1,4 +1,63 @@
 {
   "date": "2026-06-04",
-  "entries": []
+  "entries": [
+    {
+      "id": "20260604-marked-changes-in-one-carbon-metabolism-on-a-low-carbohydrate-high-fat",
+      "date_found": "2026-06-04",
+      "date_published": "2026-06-02",
+      "title": "Marked changes in one-carbon metabolism on a low-carbohydrate high-fat diet: a randomized controlled trial (CARBFUNC).",
+      "source_type": "scholar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42235826",
+      "doi": "10.1016/j.tjnut.2026.101625",
+      "pmid": "42235826",
+      "pmcid": "",
+      "journal": "The Journal of nutrition",
+      "authors": [
+        "Marianne Bråtveit",
+        "Johnny Laupsa Borge",
+        "Tonje Bjørnstad",
+        "Cathrine Sommersten",
+        "Adrian McCann",
+        "Gülen Arslan Lied"
+      ],
+      "year": "2026",
+      "citation_apa": "",
+      "citation_vancouver": "",
+      "study_type": "RCT_HUMAN_FREE_LIVING",
+      "evidence_level": "RCT_HUMAN_FREE_LIVING",
+      "population": "",
+      "sample_size": "",
+      "duration": "",
+      "intervention_or_exposure": "",
+      "primary_outcome": "",
+      "cascade_nodes": [
+        "ENERGY_BALANCE"
+      ],
+      "claim_tags": [
+        "CLAIM_SAME_CALORIES_DIFFERENT_EVENT",
+        "CLAIM_PROTEIN_SATIETY_THERMIC",
+        "CLAIM_ADAPTIVE_EXPENDITURE",
+        "CLAIM_COUNTERARGUMENT_ENERGY_BALANCE",
+        "CLAIM_CALORIE_USEFUL_INCOMPLETE"
+      ],
+      "claim_relation": "complicates",
+      "relevance": "HIGH",
+      "summary": "Studying the impact of dietary carbohydrates and fat on markers of one-carbon metabolism could provide important insight into distinct metabolic adaptations and how diets affects disease risk. To determine changes in plasma one-carbon metabolites and B-vitamers on isocaloric diets differing in carbohydrate processing or amount. 193 individuals with obesity were randomized to equal energy- and protein diets either with more processed, acellular carbohydrates (A-HCLF, comparator arm), minimally pr…",
+      "key_findings": [],
+      "mechanism": "",
+      "limitations": [
+        "Automatically collected from PubMed metadata/abstract; requires human review before manuscript use."
+      ],
+      "funding": "",
+      "conflicts": "",
+      "quote_or_key_sentence": "",
+      "book_use": "counterargument",
+      "chapter_candidates": [],
+      "overclaim_risk": "MEDIUM",
+      "medical_caution": "Do not present as medical advice; verify full text and study design before use.",
+      "generalizability": "Unknown until human review of full paper.",
+      "status": "needs_human_review",
+      "added_by_run": "2026-06-04"
+    }
+  ]
 }
