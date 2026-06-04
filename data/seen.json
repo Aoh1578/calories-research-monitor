@@ -2,24 +2,18 @@
   "doi": [
     "10.1016/j.metabol.2026.156655",
     "10.1016/j.physbeh.2009.03.011",
-    "10.1093/nutrit/nuaf300",
-    "10.1146/annurev-nutr-070225-105258",
     "10.1016/j.appet.2026.108604",
     "10.1016/j.ajcnut.2026.101363"
   ],
   "pmid": [
     "42190872",
     "41314613",
-    "42186269",
-    "42139151",
     "42176807",
     "42177949"
   ],
   "url": [
     "https://pubmed.ncbi.nlm.nih.gov/42190872",
     "https://pubmed.ncbi.nlm.nih.gov/41314613",
-    "https://pubmed.ncbi.nlm.nih.gov/42186269",
-    "https://pubmed.ncbi.nlm.nih.gov/42139151",
     "https://pubmed.ncbi.nlm.nih.gov/42176807",
     "https://pubmed.ncbi.nlm.nih.gov/42177949"
   ],
@@ -30,5 +24,5 @@
     "Impact of food texture and degree of food processing on post-meal satiety and later snack intake.",
     "Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects."
   ],
-  "updated_at": "2026-06-04T17:25:28+00:00"
+  "updated_at": "2026-06-04T17:26:04+00:00"
 }

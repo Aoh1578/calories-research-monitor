@@ -88,6 +88,7 @@ EXCLUDE_TERMS = [
     "date palm leaves", "lamb", "ruminant", "cattle", "broiler", "piglet", "aquaculture", "single-cell protein",
     "insulin dosing", "type 1 diabetes management", "multiple sclerosis incidence", "cognitive impairment",
     "postoperative", "enteral nutrition", "general surgery", "protocol for", "pilot randomized controlled trial",
+    "red pepper", "capsaicin", "bariatric surgery", "obesity medicines", "anti-obesity medication",
 ]
 
 CROSSREF_QUERIES = [

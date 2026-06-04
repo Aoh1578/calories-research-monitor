@@ -1,20 +1,26 @@
 {
   "date": "2026-06-04",
-  "candidate_count": 6,
-  "added_count": 5,
-  "high_added_count": 2,
-  "medium_added_count": 3,
-  "rejected_count": 1,
-  "added_titles": [
-    "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
-    "Attenuation of Adaptive Thermogenesis by a Culinary Dose of Red Pepper During 24-Hour Negative Energy Balance.",
-    "Effects of Bariatric Surgery and Obesity Medicines on Human Eating Behavior.",
-    "Impact of food texture and degree of food processing on post-meal satiety and later snack intake.",
-    "Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects."
-  ],
+  "candidate_count": 4,
+  "added_count": 0,
+  "high_added_count": 0,
+  "medium_added_count": 0,
+  "rejected_count": 4,
+  "added_titles": [],
   "rejected": [
     {
+      "title": "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
+      "reason": "duplicate doi in data"
+    },
+    {
       "title": "Constant-routine protocol reveals an endogenous circadian rhythm in diet-induced thermogenesis with a peak in the biological morning.",
+      "reason": "duplicate doi in data"
+    },
+    {
+      "title": "Impact of food texture and degree of food processing on post-meal satiety and later snack intake.",
+      "reason": "duplicate doi in data"
+    },
+    {
+      "title": "Individual glycemic responses scale predictably with the glycemic index: evidence against person-specific food effects.",
       "reason": "duplicate doi in data"
     }
   ],
