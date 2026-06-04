@@ -119,7 +119,7 @@
       "title": "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
       "source_type": "scholar",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41314613",
-      "doi": "10.1016/j.physbeh.2009.03.011",
+      "doi": "",
       "pmid": "41314613",
       "pmcid": "",
       "journal": "The American journal of clinical nutrition",
@@ -159,7 +159,8 @@
       "key_findings": [],
       "mechanism": "",
       "limitations": [
-        "Automatically collected from PubMed metadata/abstract; requires human review before manuscript use."
+        "Automatically collected from PubMed metadata/abstract; requires human review before manuscript use.",
+        "DOI omitted by monitor because PubMed metadata appeared inconsistent with publication year; verify manually."
       ],
       "funding": "",
       "conflicts": "",
@@ -268,7 +269,7 @@
         "CLAIM_SAME_CALORIES_DIFFERENT_EVENT",
         "CLAIM_GLYCEMIC_VARIABILITY"
       ],
-      "claim_relation": "strengthens",
+      "claim_relation": "complicates",
       "relevance": "MEDIUM",
       "summary": "Recent personalized nutrition research has reported large inter-individual differences in postprandial glucose responses to identical foods, raising questions about whether these differences reflect food-specific personal effects or normal day-to-day variability in glucose tolerance. To quantify the relative contributions of measurement variability vs person-specific effects to inter-individual glycemic variation, and to define substitution thresholds for when glycemic index (GI) differences pro…",
       "key_findings": [],
@@ -279,7 +280,7 @@
       "funding": "",
       "conflicts": "",
       "quote_or_key_sentence": "",
-      "book_use": "mechanism",
+      "book_use": "counterargument",
       "chapter_candidates": [],
       "overclaim_risk": "MEDIUM",
       "medical_caution": "Do not present as medical advice; verify full text and study design before use.",

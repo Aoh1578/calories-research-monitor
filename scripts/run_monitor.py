@@ -162,7 +162,7 @@ def classify(text: str) -> tuple[list[str], list[str], str, str, str]:
     else:
         evidence = "MECHANISTIC_HUMAN" if relevance != "LOW" else ""
 
-    relation = "complicates" if any(t in low for t in ["isocaloric", "null", "no difference", "energy balance"]) else "strengthens"
+    relation = "complicates" if any(t in low for t in ["isocaloric", "null", "no difference", "energy balance", "evidence against", "against person-specific"]) else "strengthens"
     book_use = "counterargument" if relation == "complicates" else "mechanism"
     return nodes, claims, relation, evidence, book_use if relevance != "LOW" else ""
 
@@ -204,6 +204,11 @@ def parse_pubmed_article(article: ET.Element) -> dict[str, Any] | None:
     for aid in article.findall(".//ArticleId"):
         if aid.attrib.get("IdType") == "doi" and aid.text:
             doi = norm(aid.text)
+    # PubMed occasionally carries stale/cross-linked DOI metadata. If DOI embeds an old year
+    # that conflicts with a new publication year, leave it blank for human review.
+    embedded_years = [int(y) for y in re.findall(r"(?:19|20)\d{2}", doi)]
+    if year.isdigit() and embedded_years and max(embedded_years) < int(year) - 3:
+        doi = ""
     text = f"{title} {abstract} {journal}"
     nodes, claims, relation, evidence, book_use = classify(text)
     relevance = "HIGH" if evidence in {"RCT_HUMAN_FREE_LIVING", "REVIEW_SYSTEMATIC", "META_ANALYSIS"} and nodes else ("MEDIUM" if nodes else "LOW")
