@@ -1,13 +1,11 @@
 {
   "date": "2026-06-04",
-  "candidate_count": 5,
-  "added_count": 1,
-  "high_added_count": 1,
+  "candidate_count": 4,
+  "added_count": 0,
+  "high_added_count": 0,
   "medium_added_count": 0,
   "rejected_count": 4,
-  "added_titles": [
-    "Marked changes in one-carbon metabolism on a low-carbohydrate high-fat diet: a randomized controlled trial (CARBFUNC)."
-  ],
+  "added_titles": [],
   "rejected": [
     {
       "title": "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
