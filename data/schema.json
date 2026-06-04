@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Calories Research Monitor Entry",
+  "type": "object",
+  "required": [
+    "title",
+    "source_type",
+    "url",
+    "cascade_nodes",
+    "claim_tags",
+    "relevance",
+    "summary",
+    "evidence_level"
+  ]
+}

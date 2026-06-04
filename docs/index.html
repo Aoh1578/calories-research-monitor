@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Calories Research Monitor</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="kicker">Evidence ledger</p>
+      <h1>Calories Research Monitor</h1>
+      <p class="subtitle">A conservative intake stream for mechanistic nutrition research: useful, incomplete, and citation-aware.</p>
+    </div>
+    <div class="hero-card">
+      <div class="big" id="totalCount">0</div>
+      <div class="muted">entries tracked</div>
+      <div class="muted" id="lastUpdated">Last updated: never</div>
+    </div>
+  </header>
+
+  <section class="controls" aria-label="Filters">
+    <label>Search
+      <input id="searchBox" type="search" placeholder="title, author, mechanism, claim..." />
+    </label>
+    <label>Source
+      <select id="sourceFilter"><option value="">All sources</option></select>
+    </label>
+    <label>Node
+      <select id="nodeFilter"><option value="">All nodes</option></select>
+    </label>
+    <label>Evidence
+      <select id="evidenceFilter"><option value="">All evidence levels</option></select>
+    </label>
+    <label>Book use
+      <select id="bookUseFilter"><option value="">All uses</option></select>
+    </label>
+    <label>Status
+      <select id="statusFilter"><option value="">All statuses</option></select>
+    </label>
+    <label>Sort by
+      <select id="sortBy">
+        <option value="published">Published date</option>
+        <option value="added">Date added</option>
+      </select>
+    </label>
+  </section>
+
+  <main>
+    <div id="timeline" class="timeline"></div>
+    <p id="empty" class="empty" hidden>No matching entries.</p>
+  </main>
+
+  <footer>
+    <div id="breakdown"></div>
+    <p class="muted">Social posts are discovery pointers, not evidence. Every entry remains provisional until reviewed.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

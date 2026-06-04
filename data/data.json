@@ -1,0 +1,115 @@
+{
+  "project": "Calories Research Monitor",
+  "last_updated": "2026-06-04",
+  "generated_at": "2026-06-04T17:03:27+00:00",
+  "site_url": "",
+  "nodes": [
+    {
+      "id": "ENERGY_BALANCE",
+      "label": "Energy balance and metabolic adaptation"
+    },
+    {
+      "id": "FOOD_MATRIX",
+      "label": "Food matrix, structure, and bioavailability"
+    },
+    {
+      "id": "ULTRA_PROCESSED",
+      "label": "Ultra-processed foods and intake behavior"
+    },
+    {
+      "id": "SATIETY_SIGNALS",
+      "label": "Satiety, hunger, and gut-brain signaling"
+    },
+    {
+      "id": "PROTEIN_LEVERAGE",
+      "label": "Protein leverage and macronutrient appetite"
+    },
+    {
+      "id": "THERMIC_EFFECT",
+      "label": "Thermic effect of food and metabolic cost"
+    },
+    {
+      "id": "GLYCEMIC_DYNAMICS",
+      "label": "Glucose, insulin, and postprandial response"
+    },
+    {
+      "id": "MICROBIOME",
+      "label": "Microbiome, fermentation, and energy harvest"
+    },
+    {
+      "id": "EATING_RATE",
+      "label": "Eating rate, texture, chewing, and sensory exposure"
+    },
+    {
+      "id": "REWARD_PALATABILITY",
+      "label": "Reward, palatability, dopamine, and food choice"
+    },
+    {
+      "id": "CIRCADIAN_TIMING",
+      "label": "Circadian timing and meal timing"
+    },
+    {
+      "id": "INDIVIDUAL_VARIATION",
+      "label": "Personalized responses and inter-individual variability"
+    },
+    {
+      "id": "LABELING_MEASUREMENT",
+      "label": "Calorie measurement, Atwater factors, and labeling error"
+    },
+    {
+      "id": "EXERCISE_COMPENSATION",
+      "label": "Exercise compensation and constrained expenditure"
+    },
+    {
+      "id": "WEIGHT_REGULATION",
+      "label": "Set point, settling point, and body weight regulation"
+    },
+    {
+      "id": "ENDOCRINE_ADIPOSE",
+      "label": "Leptin, adipose signaling, and endocrine feedback"
+    }
+  ],
+  "claims": [
+    {
+      "id": "CLAIM_CALORIE_USEFUL_INCOMPLETE",
+      "claim": "Calorie counts are useful but incomplete because they omit biological context."
+    },
+    {
+      "id": "CLAIM_SAME_CALORIES_DIFFERENT_EVENT",
+      "claim": "The same calorie count can produce different biological events depending on form, speed, matrix, protein, fiber, and processing."
+    },
+    {
+      "id": "CLAIM_FOOD_FORM_ALTERS_INTAKE",
+      "claim": "Food form, texture, liquid/solid state, and eating rate can alter satiety and subsequent intake."
+    },
+    {
+      "id": "CLAIM_UPF_PASSIVE_OVEREATING",
+      "claim": "Ultra-processed foods can promote passive overconsumption through mechanisms beyond stated calories alone."
+    },
+    {
+      "id": "CLAIM_PROTEIN_SATIETY_THERMIC",
+      "claim": "Protein calories can differ from other calories in satiety signaling and thermic cost."
+    },
+    {
+      "id": "CLAIM_FIBER_MATRIX_ENERGY",
+      "claim": "Fiber and intact food structure can alter metabolizable energy, gastric emptying, microbiome fermentation, and satiety."
+    },
+    {
+      "id": "CLAIM_GLYCEMIC_VARIABILITY",
+      "claim": "Glycemic and insulin responses vary by person, food matrix, sequence, timing, and context."
+    },
+    {
+      "id": "CLAIM_ADAPTIVE_EXPENDITURE",
+      "claim": "Energy expenditure can adapt or compensate, so intake/expenditure arithmetic is not always behaviorally simple."
+    },
+    {
+      "id": "CLAIM_MEASUREMENT_LIMITS",
+      "claim": "Calorie measurement and labeling systems involve assumptions, estimates, and tolerances."
+    },
+    {
+      "id": "CLAIM_COUNTERARGUMENT_ENERGY_BALANCE",
+      "claim": "Energy balance remains physically true and is the fair constraint on any calories-not-equal argument."
+    }
+  ],
+  "entries": []
+}
