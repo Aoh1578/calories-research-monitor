@@ -1,5 +1,5 @@
 {
-  "current_index": 0,
+  "current_index": 1,
   "max_additions_per_run": 3,
   "date_floor": "1990-01-01",
   "nodes": [
@@ -20,5 +20,12 @@
     "ENDOCRINE_ADIPOSE",
     "THERMIC_EFFECT"
   ],
-  "history": []
+  "history": [
+    {
+      "date": "2026-06-04",
+      "node": "ULTRA_PROCESSED",
+      "candidate_count": 3,
+      "incoming": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\incoming\\2026-06-04-historical-ULTRA_PROCESSED-candidates.json"
+    }
+  ]
 }

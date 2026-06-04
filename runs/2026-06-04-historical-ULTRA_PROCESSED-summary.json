@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-04",
+  "node": "ULTRA_PROCESSED",
+  "date_floor": "1990-01-01",
+  "candidate_count": 3,
+  "candidate_titles": [
+    "Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake.",
+    "Ultra-Processing or Oral Processing? A Role for Energy Density and Eating Rate in Moderating Energy Intake from Processed Foods.",
+    "Texture-based differences in eating rate influence energy intake for minimally processed and ultra-processed meals."
+  ],
+  "incoming": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\incoming\\2026-06-04-historical-ULTRA_PROCESSED-candidates.json",
+  "dry_run": false,
+  "query_log": [
+    "query='\"ultra-processed foods\" \"ad libitum\" \"energy intake\"' ids=['31105044', '39267249', '40082711', '34245802', '35285882', '40926558', '32110771', '37935307']",
+    "query='\"ultra-processed\" \"metabolic ward\" \"Hall\"' ids=[]",
+    "query='\"NOVA\" \"ultra-processed foods\" \"review\"' ids=['38418082', '38688162', '32630022', '36986276', '37087831', '37424296', '35322333', '34444936']"
+  ],
+  "ingest_returncode": 0,
+  "ingest_stdout": "{\n  \"date\": \"2026-06-04\",\n  \"candidate_count\": 3,\n  \"added_count\": 3,\n  \"high_added_count\": 3,\n  \"medium_added_count\": 0,\n  \"rejected_count\": 0,\n  \"added_titles\": [\n    \"Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake.\",\n    \"Ultra-Processing or Oral Processing? A Role for Energy Density and Eating Rate in Moderating Energy Intake from Processed Foods.\",\n    \"Texture-based differences in eating rate influence energy intake for minimally processed and ultra-processed meals.\"\n  ],\n  \"rejected\": [],\n  \"backup_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\backups\\\\2026-06-04-new_entries.json\",\n  \"data_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\data\\\\data.json\",\n  \"docs_data_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\docs\\\\data.json\",\n  \"notes\": {}\n}\n",
+  "ingest_stderr": "",
+  "deploy_returncode": 0,
+  "deploy_stdout": "{\n  \"success\": true,\n  \"url\": \"https://aoh1578.github.io/calories-research-monitor/\",\n  \"repo\": \"Aoh1578/calories-research-monitor\"\n}\n",
+  "deploy_stderr": "",
+  "state_next_index": 0
+}
