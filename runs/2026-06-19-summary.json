@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-19",
+  "candidate_count": 3,
+  "added_count": 3,
+  "high_added_count": 3,
+  "medium_added_count": 0,
+  "rejected_count": 0,
+  "added_titles": [
+    "Accuracy of the Atwater factors and related food energy conversion factors with low-fat, high-fiber diets when energy intake is reduced spontaneously.",
+    "Carnivorous mammals: nutrient digestibility and energy evaluation.",
+    "Discrepancy between the Atwater factor predicted and empirically measured energy values of almonds in human diets."
+  ],
+  "rejected": [],
+  "backup_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\backups\\2026-06-19-new_entries.json",
+  "data_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\data\\data.json",
+  "docs_data_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\docs\\data.json",
+  "notes": {}
+}

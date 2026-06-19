@@ -1,0 +1,168 @@
+[
+  {
+    "id": "20260619-historical-accuracy-of-the-atwater-factors-and-related-food-energy-conversion-fac",
+    "date_found": "2026-06-19",
+    "date_published": "2007-12-01",
+    "title": "Accuracy of the Atwater factors and related food energy conversion factors with low-fat, high-fiber diets when energy intake is reduced spontaneously.",
+    "source_type": "scholar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18065582/",
+    "doi": "10.1093/ajcn/86.5.1649",
+    "pmid": "18065582",
+    "pmcid": "",
+    "journal": "The American journal of clinical nutrition",
+    "authors": [
+      "Maggie L Zou",
+      "Paul J Moughan",
+      "Ajay Awati",
+      "Geoffrey Livesey"
+    ],
+    "year": "2007",
+    "citation_apa": "",
+    "citation_vancouver": "",
+    "study_type": "RCT_HUMAN_FREE_LIVING",
+    "evidence_level": "RCT_HUMAN_FREE_LIVING",
+    "population": "",
+    "sample_size": "",
+    "duration": "",
+    "intervention_or_exposure": "",
+    "primary_outcome": "",
+    "cascade_nodes": [
+      "FOOD_MATRIX"
+    ],
+    "claim_tags": [
+      "CLAIM_FIBER_MATRIX_ENERGY",
+      "CLAIM_SAME_CALORIES_DIFFERENT_EVENT",
+      "CLAIM_MEASUREMENT_LIMITS"
+    ],
+    "claim_relation": "complicates",
+    "relevance": "HIGH",
+    "summary": "Systems to calculate metabolizable energy (ME) in foods and diets are often based on Atwater factors. The accuracy of these factors with low-fat diets high in fiber is unknown when food intake is reduced spontaneously. The objective was to evaluate the accuracy of Atwater factors and other systems for calculating ME available from low-fat, high-fiber diets when food intake was reduced spontaneously. The ME contents of a high-fat, low-fiber diet and 2 low-fat diets, one high in fruit and vegetable fiber and the other high in cereal fiber, were determined in a randomized parallel study in humans (n = 27) and compared with various factorial and empirical models for calculating ME. Food intakes …",
+    "key_findings": [],
+    "mechanism": "",
+    "limitations": [
+      "Historical backfill from PubMed metadata/abstract; verify full text before manuscript use.",
+      "Automatically tagged; mechanism and chapter use need human review."
+    ],
+    "funding": "",
+    "conflicts": "",
+    "quote_or_key_sentence": "",
+    "book_use": "counterargument",
+    "chapter_candidates": [],
+    "overclaim_risk": "MEDIUM",
+    "medical_caution": "Do not present as medical advice; verify study design, population, and outcomes before use.",
+    "generalizability": "Unknown until human review of full paper.",
+    "status": "needs_human_review",
+    "added_by_run": "2026-06-19",
+    "discovery_lane": "historical_backfill"
+  },
+  {
+    "id": "20260619-historical-carnivorous-mammals-nutrient-digestibility-and-energy-evaluation",
+    "date_found": "2026-06-19",
+    "date_published": "2010-01-01",
+    "title": "Carnivorous mammals: nutrient digestibility and energy evaluation.",
+    "source_type": "scholar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20073050/",
+    "doi": "10.1002/zoo.20302",
+    "pmid": "20073050",
+    "pmcid": "",
+    "journal": "Zoo biology",
+    "authors": [
+      "Marcus Clauss",
+      "Helen Kleffner",
+      "Ellen Kienzle"
+    ],
+    "year": "2010",
+    "citation_apa": "",
+    "citation_vancouver": "",
+    "study_type": "RCT_HUMAN_FREE_LIVING",
+    "evidence_level": "RCT_HUMAN_FREE_LIVING",
+    "population": "",
+    "sample_size": "",
+    "duration": "",
+    "intervention_or_exposure": "",
+    "primary_outcome": "",
+    "cascade_nodes": [
+      "FOOD_MATRIX"
+    ],
+    "claim_tags": [
+      "CLAIM_FIBER_MATRIX_ENERGY",
+      "CLAIM_SAME_CALORIES_DIFFERENT_EVENT",
+      "CLAIM_MEASUREMENT_LIMITS"
+    ],
+    "claim_relation": "strengthens",
+    "relevance": "HIGH",
+    "summary": "Estimating the energy content is the first step in diet formulation, as it determines the amount of food eaten and hence the concentration of nutrients required to meet the animal's requirements. Additionally, being able to estimate the energy content of a diet empirically known to maintain body condition in an animal will facilitate an estimation of maintenance energy requirements. We collated data on nutrient composition of diets fed to captive wild canids, felids, hyenids, mustelids, pinnipeds, and ursids and the digestibility coefficients from the literature (45 species, 74 publications) to test whether differences in protein and fat digestibility could be detected between species groups…",
+    "key_findings": [],
+    "mechanism": "",
+    "limitations": [
+      "Historical backfill from PubMed metadata/abstract; verify full text before manuscript use.",
+      "Automatically tagged; mechanism and chapter use need human review."
+    ],
+    "funding": "",
+    "conflicts": "",
+    "quote_or_key_sentence": "",
+    "book_use": "mechanism",
+    "chapter_candidates": [],
+    "overclaim_risk": "MEDIUM",
+    "medical_caution": "Do not present as medical advice; verify study design, population, and outcomes before use.",
+    "generalizability": "Unknown until human review of full paper.",
+    "status": "needs_human_review",
+    "added_by_run": "2026-06-19",
+    "discovery_lane": "historical_backfill"
+  },
+  {
+    "id": "20260619-historical-discrepancy-between-the-atwater-factor-predicted-and-empirically-measu",
+    "date_found": "2026-06-19",
+    "date_published": "2012-08-03",
+    "title": "Discrepancy between the Atwater factor predicted and empirically measured energy values of almonds in human diets.",
+    "source_type": "scholar",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22760558/",
+    "doi": "10.3945/ajcn.112.035782",
+    "pmid": "22760558",
+    "pmcid": "",
+    "journal": "The American journal of clinical nutrition",
+    "authors": [
+      "Janet A Novotny",
+      "Sarah K Gebauer",
+      "David J Baer"
+    ],
+    "year": "2012",
+    "citation_apa": "",
+    "citation_vancouver": "",
+    "study_type": "RCT_HUMAN_FREE_LIVING",
+    "evidence_level": "RCT_HUMAN_FREE_LIVING",
+    "population": "",
+    "sample_size": "",
+    "duration": "",
+    "intervention_or_exposure": "",
+    "primary_outcome": "",
+    "cascade_nodes": [
+      "FOOD_MATRIX"
+    ],
+    "claim_tags": [
+      "CLAIM_FIBER_MATRIX_ENERGY",
+      "CLAIM_SAME_CALORIES_DIFFERENT_EVENT",
+      "CLAIM_MEASUREMENT_LIMITS"
+    ],
+    "claim_relation": "strengthens",
+    "relevance": "HIGH",
+    "summary": "The energy content of foods is primarily determined by the Atwater factors, which may not be accurate for certain food groups. Nuts are a food group for which substantial evidence suggests that the Atwater factors may be poorly predictive. A study was conducted to determine the energy value of almonds in the human diet and to compare the measured energy value with the value calculated from the Atwater factors. Eighteen healthy adults consumed a controlled diet or an almond-containing diet for 18 d. Three treatments were administered to subjects in a crossover design, and diets contained 1 of 3 almond doses: 0, 42, or 84 g/d. During the final 9 d of the treatment period, volunteers collected …",
+    "key_findings": [],
+    "mechanism": "",
+    "limitations": [
+      "Historical backfill from PubMed metadata/abstract; verify full text before manuscript use.",
+      "Automatically tagged; mechanism and chapter use need human review."
+    ],
+    "funding": "",
+    "conflicts": "",
+    "quote_or_key_sentence": "",
+    "book_use": "mechanism",
+    "chapter_candidates": [],
+    "overclaim_risk": "MEDIUM",
+    "medical_caution": "Do not present as medical advice; verify study design, population, and outcomes before use.",
+    "generalizability": "Unknown until human review of full paper.",
+    "status": "needs_human_review",
+    "added_by_run": "2026-06-19",
+    "discovery_lane": "historical_backfill"
+  }
+]
