@@ -1,0 +1,20 @@
+{
+  "date": "2026-06-26",
+  "node": "PROTEIN_LEVERAGE",
+  "date_floor": "1990-01-01",
+  "candidate_count": 0,
+  "candidate_titles": [],
+  "incoming": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\incoming\\2026-06-26-historical-PROTEIN_LEVERAGE-candidates.json",
+  "dry_run": false,
+  "query_log": [
+    "query failed '\"protein leverage\" appetite humans': <urlopen error [Errno 11001] getaddrinfo failed>",
+    "query failed '\"protein leverage hypothesis\" obesity': <urlopen error [Errno 11001] getaddrinfo failed>",
+    "query failed 'protein satiety \"energy intake\" review': <urlopen error [Errno 11001] getaddrinfo failed>"
+  ],
+  "ingest_returncode": 0,
+  "ingest_stdout": "{\n  \"date\": \"2026-06-26\",\n  \"candidate_count\": 0,\n  \"added_count\": 0,\n  \"high_added_count\": 0,\n  \"medium_added_count\": 0,\n  \"rejected_count\": 0,\n  \"added_titles\": [],\n  \"rejected\": [],\n  \"backup_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\backups\\\\2026-06-26-new_entries.json\",\n  \"data_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\data\\\\data.json\",\n  \"docs_data_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\docs\\\\data.json\",\n  \"notes\": {}\n}\n",
+  "ingest_stderr": "",
+  "deploy_returncode": 1,
+  "deploy_stdout": "",
+  "deploy_stderr": "{\n  \"success\": false,\n  \"error\": \"command failed: gh api user --jq .login\\nexit=1\\nstdout:\\n\\nstderr:\\nerror connecting to api.github.com\\ncheck your internet connection or https://githubstatus.com\\n\"\n}\n"
+}

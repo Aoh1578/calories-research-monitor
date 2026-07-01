@@ -10,7 +10,12 @@
     "10.1093/ajcn/nqac068",
     "10.1093/ajcn/86.5.1649",
     "10.1002/zoo.20302",
-    "10.3945/ajcn.112.035782"
+    "10.3945/ajcn.112.035782",
+    "10.1016/j.appet.2026.108698",
+    "10.1123/ijsnem.23.1.24",
+    "10.1016/j.clnesp.2026.103422",
+    "10.1113/jp291108",
+    "10.1016/j.afos.2025.05.005"
   ],
   "pmid": [
     "42190872",
@@ -23,7 +28,12 @@
     "35285882",
     "18065582",
     "20073050",
-    "22760558"
+    "22760558",
+    "42342079",
+    "42319448",
+    "42336239",
+    "42349903",
+    "42371245"
   ],
   "url": [
     "https://pubmed.ncbi.nlm.nih.gov/42190872",
@@ -36,7 +46,12 @@
     "https://pubmed.ncbi.nlm.nih.gov/35285882",
     "https://pubmed.ncbi.nlm.nih.gov/18065582",
     "https://pubmed.ncbi.nlm.nih.gov/20073050",
-    "https://pubmed.ncbi.nlm.nih.gov/22760558"
+    "https://pubmed.ncbi.nlm.nih.gov/22760558",
+    "https://pubmed.ncbi.nlm.nih.gov/42342079",
+    "https://pubmed.ncbi.nlm.nih.gov/42319448",
+    "https://pubmed.ncbi.nlm.nih.gov/42336239",
+    "https://pubmed.ncbi.nlm.nih.gov/42349903",
+    "https://pubmed.ncbi.nlm.nih.gov/42371245"
   ],
   "titles": [
     "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial.",
@@ -50,7 +65,12 @@
     "Texture-based differences in eating rate influence energy intake for minimally processed and ultra-processed meals.",
     "Accuracy of the Atwater factors and related food energy conversion factors with low-fat, high-fiber diets when energy intake is reduced spontaneously.",
     "Carnivorous mammals: nutrient digestibility and energy evaluation.",
-    "Discrepancy between the Atwater factor predicted and empirically measured energy values of almonds in human diets."
+    "Discrepancy between the Atwater factor predicted and empirically measured energy values of almonds in human diets.",
+    "Water intake, switching between bites and sips, and drinking behavior are associated with food intake across meals varying in spiciness: A secondary analysis of two randomized crossover studies.",
+    "Diet-induced thermogenesis does not differ after ingestion of an isoenergetic meal, whereas early-phase thermogenesis differed between athletes and non-athletes.",
+    "Precision nutrition and chronic disease: Integrating genomics, microbiome, and digital health for personalized dietary interventions.",
+    "Longitudinal and cross-sectional evidence that daily resting and activity energy expenditures are independent in humans.",
+    "Does Aging Affect Diet-Induced Thermogenesis? Revisiting the Evidence from Human Studies."
   ],
-  "updated_at": "2026-06-19T15:25:35+00:00"
+  "updated_at": "2026-07-01T03:14:47+00:00"
 }

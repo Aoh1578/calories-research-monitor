@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-30",
+  "candidate_count": 6,
+  "added_count": 5,
+  "high_added_count": 1,
+  "medium_added_count": 4,
+  "rejected_count": 1,
+  "added_titles": [
+    "Water intake, switching between bites and sips, and drinking behavior are associated with food intake across meals varying in spiciness: A secondary analysis of two randomized crossover studies.",
+    "Diet-induced thermogenesis does not differ after ingestion of an isoenergetic meal, whereas early-phase thermogenesis differed between athletes and non-athletes.",
+    "Precision nutrition and chronic disease: Integrating genomics, microbiome, and digital health for personalized dietary interventions.",
+    "Longitudinal and cross-sectional evidence that daily resting and activity energy expenditures are independent in humans.",
+    "Does Aging Affect Diet-Induced Thermogenesis? Revisiting the Evidence from Human Studies."
+  ],
+  "rejected": [
+    {
+      "title": "Impact of food texture and degree of food processing on post-meal satiety and later snack intake.",
+      "reason": "duplicate doi in data"
+    }
+  ],
+  "backup_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\backups\\2026-06-30-new_entries.json",
+  "data_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\data\\data.json",
+  "docs_data_path": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\docs\\data.json",
+  "notes": {}
+}

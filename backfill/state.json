@@ -1,5 +1,5 @@
 {
-  "current_index": 1,
+  "current_index": 2,
   "max_additions_per_run": 3,
   "date_floor": "1990-01-01",
   "nodes": [
@@ -26,6 +26,12 @@
       "node": "ULTRA_PROCESSED",
       "candidate_count": 3,
       "incoming": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\incoming\\2026-06-04-historical-ULTRA_PROCESSED-candidates.json"
+    },
+    {
+      "date": "2026-06-19",
+      "node": "FOOD_MATRIX",
+      "candidate_count": 3,
+      "incoming": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\incoming\\2026-06-19-historical-FOOD_MATRIX-candidates.json"
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-19",
+  "node": "FOOD_MATRIX",
+  "date_floor": "1990-01-01",
+  "candidate_count": 3,
+  "candidate_titles": [
+    "Accuracy of the Atwater factors and related food energy conversion factors with low-fat, high-fiber diets when energy intake is reduced spontaneously.",
+    "Carnivorous mammals: nutrient digestibility and energy evaluation.",
+    "Discrepancy between the Atwater factor predicted and empirically measured energy values of almonds in human diets."
+  ],
+  "incoming": "C:\\Users\\Home\\Documents\\Calories\\research-monitor\\incoming\\2026-06-19-historical-FOOD_MATRIX-candidates.json",
+  "dry_run": false,
+  "query_log": [
+    "query='\"food matrix\" \"metabolizable energy\"' ids=['37843821']",
+    "query='\"Atwater factors\" \"metabolizable energy\"' ids=['30586843', '26581681', '22760558', '36934832', '27713968', '40944115', '20073050', '18065582']",
+    "query='almonds \"metabolizable energy\" calories' ids=['36934832', '34201139', '27713968']"
+  ],
+  "ingest_returncode": 0,
+  "ingest_stdout": "{\n  \"date\": \"2026-06-19\",\n  \"candidate_count\": 3,\n  \"added_count\": 3,\n  \"high_added_count\": 3,\n  \"medium_added_count\": 0,\n  \"rejected_count\": 0,\n  \"added_titles\": [\n    \"Accuracy of the Atwater factors and related food energy conversion factors with low-fat, high-fiber diets when energy intake is reduced spontaneously.\",\n    \"Carnivorous mammals: nutrient digestibility and energy evaluation.\",\n    \"Discrepancy between the Atwater factor predicted and empirically measured energy values of almonds in human diets.\"\n  ],\n  \"rejected\": [],\n  \"backup_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\backups\\\\2026-06-19-new_entries.json\",\n  \"data_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\data\\\\data.json\",\n  \"docs_data_path\": \"C:\\\\Users\\\\Home\\\\Documents\\\\Calories\\\\research-monitor\\\\docs\\\\data.json\",\n  \"notes\": {}\n}\n",
+  "ingest_stderr": "",
+  "deploy_returncode": 0,
+  "deploy_stdout": "{\n  \"success\": true,\n  \"url\": \"https://aoh1578.github.io/calories-research-monitor/\",\n  \"repo\": \"Aoh1578/calories-research-monitor\"\n}\n",
+  "deploy_stderr": "",
+  "state_next_index": 2
+}
